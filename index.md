@@ -16,13 +16,24 @@ Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kin
 {: .fs-6 .fw-300 }
 
 
+### 12 Episodes
 
+<div id="column-content">
+    <div id="column-content">
+        <a href="https://vimeo.com/412176526" data-lity>
+            <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
+        </a>
+        <span class="cent"><strong>01:</strong>Epidemics: Past, Present & Future</span>
+    </div>
+    <div id="column-content">
+        <a href="https://vimeo.com/412176526" data-lity>
+            <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
+        </a>
+        <span><strong>Tui Gilling</strong> Te Whānau-ā-Apanui <a href="http://twitter.com">@tui</a></span>
+    </div>
+</div>
 
-## About
-
-
-
-## Thank you to the founding contributors of Te Pūtahi - The Nexus
+### Thank you to the founding contributors of Te Pūtahi - The Nexus
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}

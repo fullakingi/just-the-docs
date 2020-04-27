@@ -17,12 +17,12 @@ nav_order: 3
         <a href="img/Pili-001.jpg" data-lity>
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/tui-1%401x.png">
         </a>
-        <span><strong>Tui Gilling</strong> Te Whānau-ā-Apanui <a href="http://twitter.com">@fullakingi</a></span>
+        <span><strong>Tui Gilling</strong> Te Whānau-ā-Apanui <a href="http://twitter.com">@tui</a></span>
     </div>
     <div id="column-content">
         <a href="img/Jon-001.jpg" data-lity>
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/tamoko-1%401x.png">
         </a>
-        <span><strong>Tamoko Ormsby</strong> Waikato-Maniapoto</span>
+        <span><strong>Tamoko Ormsby</strong> Waikato-Maniapoto <a href="http://twitter.com">@tamoko</a></span>
     </div>
 </div>
