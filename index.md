@@ -14,17 +14,17 @@ permalink: /
 
 Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective [more >>](/docs/team)
 {: .fs-6 .fw-300 }
-
 <br/>
-### 12 Episodes
-<br/><br/>
+#### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available
+<br/>
+
 <div class="wrapper">
   <div class="boxL">
     <a href="https://vimeo.com/412176526" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
     <small>23:33</small>
-    <br><br>
+    <br/><br/>
     <a href="https://vimeo.com/412176526" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
     </a>
@@ -33,15 +33,11 @@ Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kin
   <div class="boxR">
     <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective.
   </div>
-  <div class="boxL">
-  <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
-  <small>23:33</small>
-  <br><br>
-  <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
-  <small>23:33</small>
-  </div>
-  <div class="boxR d"></div>
 </div>
+<br/>
+#### <i class="fas fa-podcast"></i>  More Episodes Coming Soon
+<br/>
+---
 
 ### Thank you to the founding contributors of Te Pūtahi - The Nexus
 
