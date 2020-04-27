@@ -56,3 +56,21 @@ li {
 .text-center {
   text-align: center !important;
 }
+
+#column-content {
+  display: inline-block;
+  border: 0px solid red;
+  position:relative;
+  margin-bottom: 10px;
+}
+#column-content strong {
+  color: inherit;
+  font-size: 18px;
+}
+
+img{
+margin-top:0px;
+margin-right:7px;
+vertical-align: middle;
+width:80px;        
+}
