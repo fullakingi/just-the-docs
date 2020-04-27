@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Team
+title: About
 nav_order: 3
 ---
 
-# Team
+# About
 
+## Your Hosts
 <div id="column-content">
     <div id="column-content">
         <a href="https://vimeo.com/412176526" data-lity>
