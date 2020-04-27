@@ -1,10 +1,9 @@
 ---
 layout: default
-title: UI Components
-nav_order: 3
+title: Episodes
+nav_order: 4
 has_children: true
-permalink: /docs/ui-components
-nav_exclude: true
+permalink: /docs/episodes
 ---
 
 # UI Components
