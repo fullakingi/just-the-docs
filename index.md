@@ -9,23 +9,18 @@ permalink: /
 # Te Pūtahi - The Nexus
 {: .fs-9 }
 
-[Subscibe Email](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Subscribe Email](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [🎙](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective.
+Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective. [more >>](/docs/team)
 {: .fs-6 .fw-300 }
 
 
 
----
 
-Episode1
+## About
 
----
 
-## About the project
-
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
 
 ## Thank you to the founding contributors of Te Pūtahi - The Nexus
 
