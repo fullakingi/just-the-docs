@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Te Pūtahi - The Nexus
-{: .fs-9 .mb-2 }
+{: .fs-9 .mb-4 }
 #### Interviews with Experts in Science & Mātauranga Māori
 {: .mt-1 .mb-8 }
 <a class="btn btn-primary fs-5 mt-2 mb-4 mb-md-0 mr-2" href="https://us1.list-manage.com/subscribe?u=25020fdbe28d918f27f369fa3&id=300405aa56" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
@@ -16,8 +16,7 @@ Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kin
 {: .fs-6 .fw-300 }
 <br/>
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available. Listen or watch below by clicking an icon. 
-<br/>
-
+{: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
     <a href="https://vimeo.com/412176526" data-lity>
