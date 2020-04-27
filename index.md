@@ -9,7 +9,9 @@ permalink: /
 # Te Pūtahi - The Nexus
 {: .fs-9 }
 
-[Subscribe Email](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+<a class="btn-lity" href="http://eepurl.com/bi8-gv" data-lity>Subscribe by Email</a>
+{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+
 [🎙](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective [more >>](/docs/team)
