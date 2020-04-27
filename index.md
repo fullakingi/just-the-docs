@@ -8,7 +8,7 @@ permalink: /
 
 # Te Pūtahi - The Nexus
 {: .fs-9 }
-
+<br/>
 
 <a class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" href="http://eepurl.com/bi8-gv" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
@@ -36,15 +36,3 @@ Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kin
 </div>
 <br/>
 #### <i class="fas fa-podcast"></i>  More Episodes Coming Soon
-<br/>
----
-
-### Thank you to the founding contributors of Te Pūtahi - The Nexus
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
