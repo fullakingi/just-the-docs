@@ -9,12 +9,10 @@ permalink: /
 # Te Pūtahi - The Nexus
 {: .fs-9 }
 
-<a class="btn-lity" href="http://eepurl.com/bi8-gv" data-lity>Subscribe by Email</a>
-{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
 
-[🎙](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+<a class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" href="http://eepurl.com/bi8-gv" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
-Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective [more >>](/docs/team)
+Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective. Listen or watch below. Find out more [about us >>](/docs/team).
 {: .fs-6 .fw-300 }
 <br/>
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available

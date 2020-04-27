@@ -35,7 +35,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "On Facebook":
+  "Share <i class='fas fa-share-alt'></i>":
     - "//github.com/pmarsceill/just-the-docs"
 
 # Footer content appears at the bottom of every page's main content
