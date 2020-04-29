@@ -6,7 +6,7 @@ nav_order: 3
 
 # About
 
-## Your Hosts
+## Hosts
 
 <div class="wrapper">
   <div class="boxL">
@@ -61,9 +61,7 @@ Te Pūtahi - The Nexus aims to:
 
 3. Discuss better responses for haukāinga in the present and in the future. 
 
-4. To uphold the traditional knowledge of our tūpuna and continue to place it in today’s world.
-
-5. To raise general awareness and foster debate.  
+4. To uphold the mana of our traditional knowledge, the mana of our tūpuna and place it thoughtfully in today’s world.
 
 
 ## Contact
