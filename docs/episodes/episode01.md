@@ -1,19 +1,18 @@
 ---
 layout: default
-title: Episode 1
+title: 01 Epidemics
 parent: Episodes
 nav_order: 1
 ---
 
-# Episode 1
+# 01 Epidemics: Past, Present & Future
 {: .no_toc }
 
-## PODCAST
+Thursday 30 April 2019
+
+## SPECIAL GUEST
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+Dr Andrew Sporle
 
-### Button element
-
-GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
+Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
