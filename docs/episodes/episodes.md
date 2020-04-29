@@ -8,5 +8,5 @@ permalink: /docs/episodes
 
 # Episodes
 
-Please find below here a summary of our episodes
+Please find a summary of our episodes
 
