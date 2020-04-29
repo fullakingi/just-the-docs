@@ -25,7 +25,7 @@ permalink: /
 {: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
-    <a href="https://vimeo.com/412176526" data-lity>
+    <a href="https://www.youtube.com/embed/yqWX86uT5jM" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
     <small>coming soon</small>

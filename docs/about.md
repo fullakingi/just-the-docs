@@ -10,9 +10,7 @@ nav_order: 3
 
 <div class="wrapper">
   <div class="boxL">
-    <a href="https://vimeo.com/412176526" data-lity>
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/kingi-1%401x.png">
-        </a>
   </div>
   <div class="boxR">
     <strong>Kingi Gilbert</strong>
