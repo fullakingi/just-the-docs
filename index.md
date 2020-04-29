@@ -36,7 +36,7 @@ permalink: /
     <small>coming soon</small>
   </div>
   <div class="boxR">
-    <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>We talk to Dr Andrew Sporle about his research into inequality and epidemilogy. Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
+    <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>We talk to Dr Andrew Sporle about his research into inequality and epidemiology. Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
 
   </div>
 </div>
