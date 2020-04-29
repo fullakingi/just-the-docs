@@ -16,7 +16,7 @@ nav_order: 3
   </div>
   <div class="boxR">
     <strong>Kingi Gilbert</strong>
-    <i>Tainui, Te Arawa, Tokomaru</i> <br>Ko te hangarau tāna pūkenga nui. For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Associate Trustee @Ngāti Tama ki te Waipounamu Trust, Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
+    <i>Tainui, Te Arawa, Tokomaru</i> <br>Ko te hangarau tāna pūkenga nui. For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Digital lead @Awaiaulu (Hawaii),Associate Trustee @Ngāti Tama ki te Waipounamu Trust & Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
   </div>
   <div class="boxL">
     <a href="https://vimeo.com/412176526" data-lity>
@@ -42,11 +42,11 @@ nav_order: 3
 ## Te Kaupapa o Te Pūtahi
 We created Te Pūtahi to give a Māori perspective to scientific research and make it useful for our haukāinga. To assist our communities to survive, revive and thrive. 
 
-- <strong>Survive:</strong> We look at the data and historical background of Māori well-being and Government response in relation to treaty obligations.  
+- <strong>Survive:</strong> We look at the data and historical background of haukāinga well-being and Government response in relation to treaty obligations.  
 
-- <strong>Revive:</strong> We seek to understand how current scientific research may align with haukāinga practices, for example, does the science align with haukāinga as kaitiaki of the whēnua, awa and moana?
+- <strong>Revive:</strong> We seek to understand how current scientific research may align with haukāinga practices, for example, does the science align with local haukāinga knowledge as kaitiaki of the whēnua, awa and moana?
 
-- <strong>Thrive:</strong> We explore ways to enhance resilience within our whānau, hapu and iwi and unlock new potential according to Māori priorities.  
+- <strong>Thrive:</strong> We explore ways to enhance resilience within our whānau, hapu and iwi and unlock new potential according to haukāinga priorities.  
 <br>
 
 ### Ka ora pea i a koe, ka ora koe i au.
@@ -65,7 +65,7 @@ Te Pūtahi - The Nexus aims to:
 
 
 ## Contact
-If you have a queries please [email us](mailto:teputahi@tehiku.co.nz).  
+If you have queries please [email us](mailto:teputahi@tehiku.co.nz).  
 
 <small><b>Production office:</b></small>  
 Ignite Studios Ltd  
