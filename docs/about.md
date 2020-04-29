@@ -45,9 +45,9 @@ We created Te Pūtahi to give a Māori perspective to scientific research and ma
 - <strong>Thrive:</strong> We explore ways to enhance resilience within our whānau, hapu and iwi and unlock new potential according to haukāinga priorities.  
 <br>
 
-### Ka ora pea i a koe, ka ora koe i au.
+### "Ka ora pea i a koe, ka ora koe i au."
 
-_Perhaps I survive because of you and you survive because of me._  
+_Perhaps I survive because of you and you survive because of me._*  
 <br>
 Te Pūtahi - The Nexus aims to:
 
@@ -69,3 +69,7 @@ Ignite Studios Ltd
 Takapuna  
 Auckland 0622  
 New Zealand
+
+
+
+<small>* _Whakatauki: #1056, pg 173 "Ngā Pepeha o Ngā Tupuna", Hirini Mead_</small>
