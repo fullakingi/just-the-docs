@@ -16,21 +16,17 @@ nav_order: 3
   </div>
   <div class="boxR">
     <strong>Kingi Gilbert</strong>
-    <i>Tainui, Te Arawa, Tokomaru</i> <br>Ko te hangarau tāna pūkenga nui. For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Digital lead @Awaiaulu (Hawaii),Associate Trustee @Ngāti Tama ki te Waipounamu Trust & Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
+    <i>Tainui, Te Arawa, Tokomaru</i> <br>Ko te hangarau tāna pūkenga nui. For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Digital lead @Awaiaulu (Hawaii), Associate Trustee @Ngāti Tama ki te Waipounamu Trust & Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
   </div>
   <div class="boxL">
-    <a href="https://vimeo.com/412176526" data-lity>
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/tui-1%401x.png">
-        </a>
   </div>
   <div class="boxR">
     <strong>Tui Gilling</strong>
-    <i>Te Whānau-ā-Apanui</i> <br>Tui Gilling is a strategist, critical thinker and innovator hailing from ‘The Coast’, the eastern Bay of Plenty, Aotearoa. Tui provides advice to local and central government and increasingly the private sector, mostly in the strategy, framework and policy space, and on strategic partnerships with iwi. She also specialises in engaging with hapū and iwi and growing cultural intelligence in agencies. <small><a href="http://matapapaconsulting.com" target="_blank">@matapapaconsulting</a></small>
+    <i>Te Whānau-ā-Apanui</i> <br>Tui Gilling is a strategist, critical thinker and innovator hailing from ‘The Coast’, the eastern Bay of Plenty, Aotearoa. Tui provides advice to local and central government and the private sector, mostly in the strategy, framework and policy space, and on strategic partnerships with iwi. She also specialises in engaging with hapū and iwi and growing cultural intelligence in agencies. <small><a href="http://matapapaconsulting.com" target="_blank">@matapapaconsulting</a></small>
   </div>
   <div class="boxL">
-    <a href="https://vimeo.com/412176526" data-lity>
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/tamoko-1%401x.png">
-        </a>
   </div>
   <div class="boxR">
     <strong>Tamoko Ormsby</strong>
@@ -57,9 +53,9 @@ Te Pūtahi - The Nexus aims to:
 
 1. Make scientific research useful to haukāinga.
 
-2. Support haukāinga in articulating concerns, particularly in the way data informs (or does not inform) institutional mechanisms.
+2. Support haukāinga in articulating concerns, particularly in the way scientific research and/or data informs (or does not inform) institutional mechanisms.
 
-3. Discuss better responses for haukāinga in the present and in the future. 
+3. Discuss responses for haukāinga in the present and in the future. 
 
 4. To uphold the mana of our traditional knowledge, the mana of our tūpuna and place it thoughtfully in today’s world.
 

@@ -15,6 +15,12 @@ permalink: /
 'Te Pūtahi - The Nexus' is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tamoko Ormsby interview special guests, share a Māori perspective to scientific research and ask how the research can be useful for our haukāinga. Find out more [about us →](/docs/about).
 {: .fs-6 .fw-300 }
 <br/>
+
+#### <i class="fab fa-youtube"></i>  Latest Episode  
+{: .mb-6 }
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yqWX86uT5jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br/>
+
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available.  
 {: .mb-6 }
 <div class="wrapper">
@@ -22,12 +28,12 @@ permalink: /
     <a href="https://vimeo.com/412176526" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
-    <small>23:33</small>
+    <small>coming soon</small>
     <br/><br/>
     <a href="https://vimeo.com/412176526" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
     </a>
-    <small>23:33</small>
+    <small>coming soon</small>
   </div>
   <div class="boxR">
     <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>Ko ta tatou kaikorero i tēnei hōtaka, ko Dr Andrew Sporle.  Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.

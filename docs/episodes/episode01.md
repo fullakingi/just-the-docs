@@ -10,6 +10,8 @@ nav_order: 1
 
 Thursday 30 April 2019
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yqWX86uT5jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## SPECIAL GUEST
 {: .no_toc .text-delta }
 
