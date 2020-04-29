@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective."
+description: "Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby interview experts, give a Māori perspective to scientific research and make it useful for our haukāinga."
 permalink: /
 ---
 
@@ -12,7 +12,7 @@ permalink: /
 {: .mt-1 .mb-8 }
 <a class="btn btn-primary fs-5 mt-2 mb-4 mb-md-0 mr-2" href="https://us1.list-manage.com/subscribe?u=25020fdbe28d918f27f369fa3&id=300405aa56" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
-'Te Pūtahi - The Nexus' is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert (Tainui, Te Arawa, Tokomaru), Tui Gilling (Te Whānau-ā-Apanui) and Tamoko Ormsby (Waikato-Maniapoto) discuss haukāinga issues with a research and science perspective. Find out more [about us →](/docs/about).
+'Te Pūtahi - The Nexus' is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert (Tainui, Te Arawa, Tokomaru), Tui Gilling (Te Whānau-ā-Apanui) and Tamoko Ormsby (Waikato-Maniapoto) interview experts, share a Māori perspective to scientific research and make it useful for our haukāinga. Find out more [about us →](/docs/about).
 {: .fs-6 .fw-300 }
 <br/>
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available.  

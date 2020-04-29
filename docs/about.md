@@ -34,35 +34,44 @@ nav_order: 3
   </div>
   <div class="boxR">
     <strong>Tamoko Ormsby</strong>
-    <i>Waikato-Maniapoto</i> <br>Passionate about the development of self-sustainable rural communities, under an Indigenous and culturally-integrated design framework. Co-Founder of Pipiri Ki A Papatūānuku, a social movement dedicated to giving back to our earth one month at a time. <small><a href="https://www.pipirikiapapatuanuku.org/" target="_blank">#HundyPKP</a></small>
+    <i>Waikato-Maniapoto</i> <br>Passionate about the development of self-sustainable rural communities, under an Indigenous and culturally-integrated design framework. Co-Founder of Pipiri Ki A Papatūānuku, a social movement dedicated to giving back to our earth, one month at a time. <small><a href="https://www.pipirikiapapatuanuku.org/" target="_blank">#HundyPKP</a></small>
   </div>
 </div>
 
 
-## Te Kaupapa
-We created Te Pūtahi to give a Māori perspective to research and make it useful for our haukāinga. To assist our communities to survive, revive and thrive. 
+## Te Kaupapa o Te Pūtahi
+We created Te Pūtahi to give a Māori perspective to scientific research and make it useful for our haukāinga. To assist our communities to survive, revive and thrive. 
 
-- <strong>Survive:</strong> We look at the current state of Māori well-being and Government response in relation to treaty obligations.  
+- <strong>Survive:</strong> We look at the data and historical background of Māori well-being and Government response in relation to treaty obligations.  
 
-- <strong>Revive:</strong> We examine resilience by understanding how science aligns with traditional practices, for example, how our tūpuna lived with the whēnua, awa and moana.  
+- <strong>Revive:</strong> We seek to understand how current scientific research may align with haukāinga practices, for example, does the science align with haukāinga as kaitiaki of the whēnua, awa and moana?
 
-- <strong>Thrive:</strong> We explore ways to enhance resilience within our whānau, hapu and iwi and unlock new potential according to Māori priorities.
+- <strong>Thrive:</strong> We explore ways to enhance resilience within our whānau, hapu and iwi and unlock new potential according to Māori priorities.  
+<br>
 
+### Ka ora pea i a koe, ka ora koe i au.
 
+_Perhaps I survive because of you and you survive because of me._  
+<br>
 Te Pūtahi - The Nexus aims to:
 
+1. Make scientific research useful to haukāinga.
 
-1. Ensure a better response for Māori in the present and in the future. 
+2. Support haukāinga in articulating concerns, particularly in the way data informs (or does not inform) institutional mechanisms.
 
-2. To make scientific information useful so haukāinga can process informed decisions.
+3. Discuss better responses for haukāinga in the present and in the future. 
 
-3. To support haukāinga in articulating their concerns.
+4. To uphold the traditional knowledge of our tūpuna and continue to place it in today’s world.
 
-4. To raise general awareness and foster debate.
-
-5. To uphold the traditional knowledge of our tūpuna and continue to place it in today’s world.
+5. To raise general awareness and foster debate.  
 
 
-> Ka ora pea i a koe, ka ora koe i au.
+## Contact
+If you have a queries please [email us](mailto:teputahi@tehiku.co.nz).  
 
-Perhaps I survive because of you and you survive because of me.
+<small><b>Production office:</b></small>  
+Ignite Studios Ltd  
+19 Sanders Ave,  
+Takapuna  
+Auckland 0622  
+New Zealand
