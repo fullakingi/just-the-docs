@@ -8,14 +8,14 @@ permalink: /
 
 # Te Pūtahi - The Nexus
 {: .fs-9 .mb-4 }
-#### Interviews with Experts in Science & Mātauranga Māori
+#### Interviews with experts in Pūtaiao
 {: .mt-1 .mb-8 }
 <a class="btn btn-primary fs-5 mt-2 mb-4 mb-md-0 mr-2" href="https://us1.list-manage.com/subscribe?u=25020fdbe28d918f27f369fa3&id=300405aa56" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
-Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective. Find out more [about us →](/docs/about).
+'Te Pūtahi - The Nexus' is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert (Tainui, Te Arawa, Tokomaru), Tui Gilling (Te Whānau-ā-Apanui) and Tamoko Ormsby (Waikato-Maniapoto) discuss haukāinga issues with a research and science perspective. Find out more [about us →](/docs/about).
 {: .fs-6 .fw-300 }
 <br/>
-#### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available. Listen or watch below by clicking an icon. 
+#### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available.  
 {: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
@@ -30,8 +30,7 @@ Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kin
     <small>23:33</small>
   </div>
   <div class="boxR">
-    <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>Collaboration of the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tāmoko Ormsby discuss haukāinga issues with a research and science perspective.
+    <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>Ko ta tatou kaikorero i tēnei hōtaka, ko Dr Andrew Sporle.  Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
+
   </div>
 </div>
-<br/>
-#### <i class="fas fa-podcast"></i>  More Episodes Coming Soon
