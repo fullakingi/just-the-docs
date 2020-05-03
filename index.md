@@ -18,7 +18,7 @@ permalink: /
 
 #### <i class="fab fa-youtube"></i>  Latest Episode  
 {: .mb-6 }
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yqWX86uT5jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/414094967?color=27CCC0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 <br/>
 
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available.  
