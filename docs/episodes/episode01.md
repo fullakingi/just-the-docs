@@ -10,11 +10,29 @@ nav_order: 1
 
 Thursday 30 April 2019
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yqWX86uT5jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/414094967?color=27CCC0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 ## SPECIAL GUEST
 {: .no_toc .text-delta }
 
 Dr Andrew Sporle
 
-Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
+We talk to Dr Andrew Sporle about his research into inequality and epidemiology. Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network. 
+
+<div class="wrapper">
+  <div class="boxL">
+    <a href="https://pinecast.com/listen/8943f9b1-86b0-4ed1-b041-2609e1525ac4.mp3" data-lity>
+    <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
+    </a>
+    <small>18m 42s</small>
+    <br/><br/>
+    <a href="https://vimeo.com/414094967" data-lity>
+    <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
+    </a>
+    <small>34m 19s</small>
+  </div>
+  <div class="boxR">
+    <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>We talk to Dr Andrew Sporle about his research into inequality and epidemiology. Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
+
+  </div>
+</div>
