@@ -14,7 +14,7 @@ nav_order: 3
   </div>
   <div class="boxR">
     <strong>Kingi Gilbert</strong>
-    <i>Tainui, Te Arawa, Tokomaru</i> <br>Ko te hangarau tāna pūkenga nui. For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Digital lead @Awaiaulu (Hawaii), Associate Trustee @Ngāti Tama ki te Waipounamu Trust & Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
+    <i>Tainui, Te Arawa, Tokomaru</i> <br>For the last few years Kingi has been spending his time between Aotearoa and Hawaii consulting @IgniteStudios with his whānau, hapū and Iwi. Digital lead @Awaiaulu (Hawaii), Associate Trustee @Ngāti Tama ki te Waipounamu Trust & Associate Director @Wakatū. <small><a href="http://twitter.com/fullakingi" target="_blank">@fullakingi</a></small>
   </div>
   <div class="boxL">
             <img src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/tui-1%401x.png">
