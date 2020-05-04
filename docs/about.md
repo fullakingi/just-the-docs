@@ -47,7 +47,7 @@ We created Te Pūtahi to give a Māori perspective to scientific research and ma
 
 _Perhaps I survive because of you and you survive because of me._*  
 <br>
-Te Pūtahi - The Nexus aims to:
+Te Pūtahi aims to:
 
 1. Make scientific research useful to haukāinga.
 
