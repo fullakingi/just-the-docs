@@ -6,9 +6,9 @@ description: "Te Pūtahi is a project between the Science Media Center, Te Hiku 
 permalink: /
 ---
 
-# Te Pūtahi - The Nexus
+# Te Pūtahi
 {: .fs-9 .mb-4 }
-#### Kōrero Pūtaiao
+#### Pūtaiao & Haukāinga
 {: .mt-1 .mb-8 }
 <a class="btn btn-primary fs-5 mt-2 mb-4 mb-md-0 mr-2" href="https://us1.list-manage.com/subscribe?u=25020fdbe28d918f27f369fa3&id=300405aa56" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
