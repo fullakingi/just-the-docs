@@ -18,19 +18,19 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 
 #### <i class="fab fa-youtube"></i>  Latest Episode  
 {: .mb-6 }
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/414094967?color=27CCC0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+
 <br/>
 
 #### <i class="fas fa-podcast"></i>  1 of 12 Episodes Available.  
 {: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
-    <a href="https://pinecast.com/listen/8943f9b1-86b0-4ed1-b041-2609e1525ac4.mp3" data-lity>
+    <a href="" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
     <small>18m 42s</small>
     <br/><br/>
-    <a href="https://vimeo.com/414094967" data-lity>
+    <a href="" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
     </a>
     <small>34m 19s</small>
