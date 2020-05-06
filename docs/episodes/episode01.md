@@ -10,7 +10,7 @@ nav_order: 1
 
 Thursday 30 April 2019
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+<iframe src="https://tehiku.nz/embed/10947" style="padding:0px; margin:0px; border:0px;" width="100%" height="360" frameborder="0" allowfullscreen ></iframe>
 
 ## SPECIAL GUEST
 {: .no_toc .text-delta }

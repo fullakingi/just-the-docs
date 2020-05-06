@@ -18,6 +18,7 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 
 #### <i class="fab fa-youtube"></i>  Latest Episode  
 {: .mb-6 }
+<iframe src="https://tehiku.nz/embed/10947" style="padding:0px; margin:0px; border:0px;" width="100%" height="360" frameborder="0" allowfullscreen ></iframe>
 
 <br/>
 
