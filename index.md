@@ -26,12 +26,12 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 {: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
-    <a href="" data-lity>
+    <a href="https://tehiku.nz/embed/10947" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
     <small>18m 42s</small>
     <br/><br/>
-    <a href="" data-lity>
+    <a href="https://tehiku.nz/embed/10947" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
     </a>
     <small>34m 19s</small>
