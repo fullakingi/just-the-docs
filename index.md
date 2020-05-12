@@ -33,7 +33,7 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
      <small>Iwi Radio</small>
     <small>22m 46s</small>
     <br/><br/>
-    <a href="https://tehiku.nz/embed/10949" data-lity>
+    <a href="https://tehiku.nz/embed/10995" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/video.png">
     </a>
     <small>Video</small>
