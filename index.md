@@ -18,9 +18,8 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 
 #### <i class="fab fa-youtube"></i>  Latest Episode  
 {: .mb-6 }
-<iframe src="" style="padding:0px; margin:0px; border:0px;" width="100%" height="360" frameborder="0" allowfullscreen ></iframe>
+<iframe src="https://tehiku.nz/embed/10995" style="padding:0px; margin:0px; border:0px;" width="100%" frameborder="0" allowfullscreen ></iframe>
 
-<iframe src="https://tehiku.nz/embed/10995" width="100%" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <br/>
 
@@ -28,14 +27,16 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 {: .mb-6 }
 <div class="wrapper">
   <div class="boxL">
-    <a href="https://tehiku.nz/embed/10947" data-lity>
+    <a href="https://tehiku.nz/embed/10949" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-pod-1%401x.png">
     </a>
-    <small>18m 42s</small>
+     <small>Iwi Radio</small>
+    <small>22m 46s</small>
     <br/><br/>
     <a href="https://tehiku.nz/embed/10949" data-lity>
-    <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/btn-vid-1%401x.png">
+    <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/video.png">
     </a>
+    <small>Video</small>
     <small>34m 19s</small>
   </div>
   <div class="boxR">
