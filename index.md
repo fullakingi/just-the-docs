@@ -35,7 +35,7 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
     <a href="https://tehiku.nz/embed/10995" data-lity>
     <img class="play" src="https://raw.githubusercontent.com/fullakingi/just-the-docs/master/assets/images/video.png">
     </a>
-    <small>Video<br/>4m 19s</small>
+    <small>Video<br/>34m 19s</small>
   </div>
   <div class="boxR">
     <strong><a href="/docs/episodes/episode01">Epidemics: Past, Present & Future</a></strong><br>We talk to Dr Andrew Sporle about his research into inequality and epidemiology. Dr Andrew Sporle is with the Statistics Department at the University of Auckland and specialises in genetic and epigenetic epidemiology. Andrew is a founding member of Te Mana Rauranga - the Māori data sovereignty network.
