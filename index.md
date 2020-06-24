@@ -12,7 +12,7 @@ permalink: /
 {: .mt-1 .mb-8 }
 <a class="btn btn-primary fs-5 mt-2 mb-4 mb-md-0 mr-2" href="https://us1.list-manage.com/subscribe?u=25020fdbe28d918f27f369fa3&id=300405aa56" data-lity>Subscribe by Email</a> <!--> [<i class="fas fa-podcast"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 }   [<i class="fab fa-spotify"></i>](http://apple.com){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
-Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tamoko Ormsby interview special guests, share a Māori perspective to scientific research and ask how the research can be useful for our haukāinga. Find out more [about us →](/docs/about).
+Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Ignite Studios. Kingi Gilbert, Tui Gilling and Tamoko Ormsby interview special guests, share a Māori perspective to scientific research and ask how the research can be useful for haukāinga. Find out more [about us →](/docs/about).
 {: .fs-6 .fw-300 }
 <br/>
 
@@ -20,6 +20,7 @@ Te Pūtahi is a project between the Science Media Center, Te Hiku Media and Igni
 {: .mb-6 }
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://tehiku.nz/embed/10995" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+    <iframe src="https://tehiku.nz/embed/11368" class="resp-iframe" gesture="media"  allow="encrypted-media" allowfullscreen ></iframe> 
 </div>
 
 <br/>
